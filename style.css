@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    font-family: cursive;
+    opacity: 0.5;
+        
+}    
+
+p{
+    text-decoration:
+    underline;
+    text-overflow: inherit;
+    overflow: visible;
+    
+}
